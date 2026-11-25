@@ -1,5 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< Updated upstream
 --- !u!1 &2072277654013195912
 GameObject:
   m_ObjectHideFlags: 0
@@ -195,6 +196,9 @@ Light:
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
 --- !u!1 &6211231931749218590
+=======
+--- !u!1 &7645587098718375993
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -322,11 +326,15 @@ Transform:
   m_LocalPosition: {x: 0.31686, y: 0.2218, z: 3.79}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
+<<<<<<< Updated upstream
   m_Children:
   - {fileID: 6080421038511561493}
   - {fileID: 2405089101392073278}
   - {fileID: 6722384423345377737}
   - {fileID: 4807134612042084279}
+=======
+  m_Children: []
+>>>>>>> Stashed changes
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4465598689379365465
