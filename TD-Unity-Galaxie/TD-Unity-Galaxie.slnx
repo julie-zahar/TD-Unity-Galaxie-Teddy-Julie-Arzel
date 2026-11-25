@@ -1,3 +1,5 @@
 ﻿<Solution>
+  <Project Path="Drakkar.csproj" />
+  <Project Path="GameUtils.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
 </Solution>
